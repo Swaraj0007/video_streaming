@@ -9,5 +9,4 @@ Learn How to Create Your Own Video Streaming Flutter App with REST API using Nod
 - We can display any images, videos from Laptop/Desktop in an app with REST API.
 
 Watch full Video on YouTube.
-- Video Link - https://youtu.be/watch?v=vBaxphcq2Sk
-
+- Video Link - https://www.youtube.com/watch?v=vBaxphcq2Sk
